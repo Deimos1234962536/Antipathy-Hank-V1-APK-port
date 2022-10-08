@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				123,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Conductric  M Left"
+		},
+		{
+			"offsets": [
+				138,
+				-216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Conductric M Down"
+		},
+		{
+			"offsets": [
+				224,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Conductric M UP"
+		},
+		{
+			"offsets": [
+				-75,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Conductric M Right"
+		},
+		{
+			"offsets": [
+				157,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Conductric Hurt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Conductric Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				293,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack2",
+			"loop": false,
+			"name": "Conductric M ATK2"
+		},
+		{
+			"offsets": [
+				258,
+				167
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack1",
+			"loop": false,
+			"name": "Conductric M ATK1"
+		},
+		{
+			"offsets": [
+				174,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "block",
+			"loop": false,
+			"name": "Conductric M DEF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TRICKYMOVES",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		126,
+		160
+	],
+	"camera_position": [
+		-80,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

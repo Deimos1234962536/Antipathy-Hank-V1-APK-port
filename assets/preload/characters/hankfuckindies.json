@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				414,
+				291
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "hank shits himself instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				566,
+				443
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "hank button bopping lole instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				411,
+				300
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "hank slice instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hank-death",
+	"position": [
+		260,
+		580
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		229
+	],
+	"camera_position": [
+		720,
+		-530
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

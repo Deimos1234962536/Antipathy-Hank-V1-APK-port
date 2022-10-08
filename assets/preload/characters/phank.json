@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				122,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "P-Hank M DOWN0"
+		},
+		{
+			"offsets": [
+				21,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "P-Hank M UP0"
+		},
+		{
+			"offsets": [
+				158,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "P-Hank M LEFT MISS"
+		},
+		{
+			"offsets": [
+				21,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "P-Hank M UP MISS"
+		},
+		{
+			"offsets": [
+				76,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "P-Hank M RIGHTMISS"
+		},
+		{
+			"offsets": [
+				28,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "P-Hank Hurt"
+		},
+		{
+			"offsets": [
+				662,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack1",
+			"indices": [],
+			"name": "P-Hank ATK 1"
+		},
+		{
+			"offsets": [
+				660,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack2",
+			"indices": [],
+			"name": "P-Hank ATK 2"
+		},
+		{
+			"offsets": [
+				116,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block",
+			"indices": [],
+			"name": "P-Hank Block"
+		},
+		{
+			"offsets": [
+				149,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "P-Hank M DOWN MISS"
+		},
+		{
+			"offsets": [
+				155,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "P-Hank M RIGHT0"
+		},
+		{
+			"offsets": [
+				80,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "P-Hank M LEFT0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "P-Hank Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Playhank_Assets",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "hank",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		76
+	],
+	"camera_position": [
+		800,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

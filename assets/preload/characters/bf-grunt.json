@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-73
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				-14
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-68
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				50
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				24
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY!!!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				14
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-13
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				24,
+				-13
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-13
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "retry confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				4
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				344,
+				165
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "mic throw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-73
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "PRE ATTACK",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/grunt_bf",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "bfgrunt",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		85,
+		254
+	],
+	"camera_position": [
+		-80,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

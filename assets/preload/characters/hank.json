@@ -1,0 +1,137 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Anti-Hank Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-53
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Anti-Hank M RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Anti-Hank M DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Anti-Hank M UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-296,
+				30
+			],
+			"anim": "block",
+			"fps": 24,
+			"name": "Anti-Hank Block",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ANTI-Hank M LEFT"
+		},
+		{
+			"offsets": [
+				62,
+				83
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Anti-Hank M UP"
+		},
+		{
+			"offsets": [
+				22,
+				5
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "Anti-Hank M DOWN"
+		},
+		{
+			"offsets": [
+				-80,
+				-53
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Anti-Hank M RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PIPEMAN",
+	"position": [
+		-290,
+		30
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		76
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
