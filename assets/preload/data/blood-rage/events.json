@@ -1,0 +1,91 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "complex",
+		"player1": "bf",
+		"player2": "yabhank",
+		"player3": null,
+		"events": [
+			[
+				8761.06194690266,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				25486.7256637168,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				32123.8938053097,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				33982.3008849557,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				76460.1769911505,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				83097.3451327434,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				93716.8141592921,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"forcedGf": null,
+		"forcedChar": null,
+		"validScore": false,
+		"gfVersion": "gf-anti",
+		"bpm": 113,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Blood Rage"
+	}
+}
