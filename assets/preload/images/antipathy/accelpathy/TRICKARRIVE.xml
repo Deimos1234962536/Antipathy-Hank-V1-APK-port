@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TRICKARRIVE.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Conductric Arrive0000" x="10" y="10" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0001" x="1522" y="10" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0002" x="3034" y="10" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0003" x="4546" y="10" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0004" x="6058" y="10" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0005" x="10" y="1459" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0006" x="1522" y="1459" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0007" x="3034" y="1459" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0008" x="4546" y="1459" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0009" x="6058" y="1459" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0010" x="10" y="2908" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0011" x="1522" y="2908" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0012" x="3034" y="2908" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0013" x="4546" y="2908" width="1502" height="1439"/>
+	<SubTexture name="Conductric Arrive0014" x="3034" y="2908" width="1502" height="1439"/>
+</TextureAtlas>
