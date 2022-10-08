@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="char_shadows.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF No Shading0000" x="0" y="0" width="421" height="547"/>
+	<SubTexture name="BF darkened0000" x="421" y="0" width="420" height="546"/>
+	<SubTexture name="BF grunt No shading0000" x="841" y="0" width="454" height="597"/>
+	<SubTexture name="BF grunt darkened0000" x="1295" y="0" width="546" height="592"/>
+</TextureAtlas>
