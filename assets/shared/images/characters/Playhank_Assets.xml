@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Playhank_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="P-Hank ATK 10000" x="926" y="1337" width="1633" height="759"/>
+	<SubTexture name="P-Hank ATK 10001" x="2569" y="1337" width="1633" height="759"/>
+	<SubTexture name="P-Hank ATK 10002" x="4212" y="1337" width="1633" height="759"/>
+	<SubTexture name="P-Hank ATK 10003" x="5855" y="1337" width="1633" height="759"/>
+	<SubTexture name="P-Hank ATK 10004" x="10" y="2106" width="1633" height="759"/>
+	<SubTexture name="P-Hank ATK 10005" x="1653" y="2106" width="1633" height="759"/>
+	<SubTexture name="P-Hank ATK 10006" x="3296" y="2106" width="1633" height="759"/>
+	<SubTexture name="P-Hank ATK 20000" x="4939" y="2106" width="1512" height="749"/>
+	<SubTexture name="P-Hank ATK 20001" x="6461" y="2106" width="1512" height="749"/>
+	<SubTexture name="P-Hank ATK 20002" x="10" y="2875" width="1512" height="749"/>
+	<SubTexture name="P-Hank ATK 20003" x="1532" y="2875" width="1512" height="749"/>
+	<SubTexture name="P-Hank ATK 20004" x="3054" y="2875" width="1512" height="749"/>
+	<SubTexture name="P-Hank ATK 20005" x="4576" y="2875" width="1512" height="749"/>
+	<SubTexture name="P-Hank ATK 20006" x="6098" y="2875" width="1512" height="749"/>
+	<SubTexture name="P-Hank Block0000" x="10" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0001" x="703" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0002" x="1396" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0003" x="2089" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0004" x="2782" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0005" x="3475" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0006" x="4168" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0007" x="4861" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0008" x="5554" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0009" x="6247" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0010" x="6940" y="3634" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0011" x="10" y="4313" width="683" height="669"/>
+	<SubTexture name="P-Hank Block0012" x="703" y="4313" width="683" height="669"/>
+	<SubTexture name="P-Hank Hurt0000" x="1396" y="4313" width="1118" height="686"/>
+	<SubTexture name="P-Hank Hurt0001" x="2524" y="4313" width="1118" height="686"/>
+	<SubTexture name="P-Hank Hurt0002" x="3652" y="4313" width="1118" height="686"/>
+	<SubTexture name="P-Hank Hurt0003" x="4780" y="4313" width="1118" height="686"/>
+	<SubTexture name="P-Hank Hurt0004" x="5908" y="4313" width="1118" height="686"/>
+	<SubTexture name="P-Hank Hurt0005" x="7036" y="4313" width="1118" height="686"/>
+	<SubTexture name="P-Hank Idle0000" x="10" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0001" x="847" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0002" x="1684" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0003" x="2521" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0004" x="3358" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0005" x="4195" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0006" x="5032" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0007" x="5869" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0008" x="6706" y="5009" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0009" x="10" y="5656" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0010" x="847" y="5656" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0011" x="1684" y="5656" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0012" x="2521" y="5656" width="827" height="637"/>
+	<SubTexture name="P-Hank Idle0013" x="3358" y="5656" width="827" height="637"/>
+	<SubTexture name="P-Hank M DOWN0000" x="4195" y="5656" width="974" height="633"/>
+	<SubTexture name="P-Hank M DOWN0001" x="5179" y="5656" width="974" height="633"/>
+	<SubTexture name="P-Hank M DOWN0002" x="6163" y="5656" width="974" height="633"/>
+	<SubTexture name="P-Hank M DOWN0003" x="7147" y="5656" width="974" height="633"/>
+	<SubTexture name="P-Hank M DOWN MISS0000" x="10" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0001" x="989" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0002" x="1968" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0003" x="1968" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0004" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0005" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0006" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0007" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0008" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0009" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0010" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0011" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0012" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M DOWN MISS0013" x="2947" y="10" width="969" height="590"/>
+	<SubTexture name="P-Hank M LEFT0000" x="10" y="6303" width="930" height="651"/>
+	<SubTexture name="P-Hank M LEFT0001" x="950" y="6303" width="930" height="651"/>
+	<SubTexture name="P-Hank M LEFT0002" x="1890" y="6303" width="930" height="651"/>
+	<SubTexture name="P-Hank M LEFT0003" x="2830" y="6303" width="930" height="651"/>
+	<SubTexture name="P-Hank M LEFT MISS0000" x="3926" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0001" x="4833" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0002" x="5740" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0003" x="5740" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0004" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0005" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0006" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0007" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0008" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0009" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0010" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0011" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0012" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M LEFT MISS0013" x="6647" y="10" width="897" height="593"/>
+	<SubTexture name="P-Hank M RIGHT0000" x="3770" y="6303" width="898" height="587"/>
+	<SubTexture name="P-Hank M RIGHT0001" x="4678" y="6303" width="898" height="587"/>
+	<SubTexture name="P-Hank M RIGHT0002" x="5586" y="6303" width="898" height="587"/>
+	<SubTexture name="P-Hank M RIGHT0003" x="6494" y="6303" width="898" height="587"/>
+	<SubTexture name="P-Hank M RIGHTMISS0000" x="10" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0001" x="959" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0002" x="1908" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0003" x="2857" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0004" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0005" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0006" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0007" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0008" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0009" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0010" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0011" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0012" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M RIGHTMISS0013" x="3806" y="613" width="939" height="651"/>
+	<SubTexture name="P-Hank M UP0000" x="10" y="6964" width="905" height="701"/>
+	<SubTexture name="P-Hank M UP0001" x="925" y="6964" width="905" height="701"/>
+	<SubTexture name="P-Hank M UP0002" x="1840" y="6964" width="905" height="701"/>
+	<SubTexture name="P-Hank M UP0003" x="2755" y="6964" width="905" height="701"/>
+	<SubTexture name="P-Hank M UP MISS0000" x="4755" y="613" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0001" x="5671" y="613" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0002" x="6587" y="613" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0003" x="6587" y="613" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0004" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0005" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0006" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0007" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0008" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0009" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0010" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0011" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0012" x="10" y="1337" width="906" height="714"/>
+	<SubTexture name="P-Hank M UP MISS0013" x="10" y="1337" width="906" height="714"/>
+</TextureAtlas>

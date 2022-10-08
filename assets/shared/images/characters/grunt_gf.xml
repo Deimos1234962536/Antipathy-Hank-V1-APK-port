@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grunt_gf.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="0" y="0" width="494" height="661" frameX="-1" frameY="-17" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0001" x="0" y="0" width="494" height="661" frameX="-1" frameY="-17" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0002" x="494" y="0" width="496" height="657" frameX="-5" frameY="-21" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0003" x="494" y="0" width="496" height="657" frameX="-5" frameY="-21" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0004" x="990" y="0" width="495" height="659" frameX="-5" frameY="-19" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0005" x="990" y="0" width="495" height="659" frameX="-5" frameY="-19" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0006" x="1485" y="0" width="490" height="663" frameX="-2" frameY="-15" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0007" x="1975" y="0" width="486" height="668" frameX="0" frameY="-10" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0008" x="2461" y="0" width="486" height="668" frameX="0" frameY="-10" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0009" x="2947" y="0" width="485" height="667" frameX="-3" frameY="-11" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0010" x="3432" y="0" width="485" height="667" frameX="-3" frameY="-11" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0011" x="3432" y="0" width="485" height="667" frameX="-3" frameY="-11" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0012" x="0" y="668" width="483" height="667" frameX="-5" frameY="-11" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0013" x="483" y="668" width="482" height="669" frameX="-7" frameY="-9" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0014" x="483" y="668" width="482" height="669" frameX="-7" frameY="-9" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0015" x="965" y="668" width="487" height="672" frameX="-13" frameY="-6" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0016" x="965" y="668" width="487" height="672" frameX="-13" frameY="-6" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0017" x="1452" y="668" width="490" height="677" frameX="-9" frameY="-1" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0018" x="1452" y="668" width="490" height="677" frameX="-9" frameY="-1" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0019" x="1942" y="668" width="487" height="678" frameX="-18" frameY="0" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0020" x="1942" y="668" width="487" height="678" frameX="-18" frameY="0" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0021" x="2429" y="668" width="484" height="674" frameX="-21" frameY="-4" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0022" x="2913" y="668" width="484" height="674" frameX="-21" frameY="-4" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0023" x="3397" y="668" width="484" height="674" frameX="-21" frameY="-4" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0024" x="0" y="1346" width="483" height="674" frameX="-20" frameY="-4" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0025" x="483" y="1346" width="483" height="674" frameX="-20" frameY="-4" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0026" x="966" y="1346" width="483" height="675" frameX="-21" frameY="-3" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0027" x="1449" y="1346" width="483" height="675" frameX="-21" frameY="-3" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0028" x="1932" y="1346" width="483" height="675" frameX="-21" frameY="-3" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0029" x="2415" y="1346" width="483" height="675" frameX="-21" frameY="-3" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="bop0030" x="2415" y="1346" width="483" height="675" frameX="-21" frameY="-3" frameWidth="505" frameHeight="678"/>
+	<SubTexture name="cry0000" x="2898" y="1346" width="505" height="661" frameX="0" frameY="-6" frameWidth="505" frameHeight="667"/>
+	<SubTexture name="cry0001" x="2898" y="1346" width="505" height="661" frameX="0" frameY="-6" frameWidth="505" frameHeight="667"/>
+	<SubTexture name="cry0002" x="3403" y="1346" width="505" height="667"/>
+	<SubTexture name="cry0003" x="3403" y="1346" width="505" height="667"/>
+	<SubTexture name="cry0004" x="0" y="2021" width="505" height="667"/>
+	<SubTexture name="cry0005" x="0" y="2021" width="505" height="667"/>
+	<SubTexture name="cry0006" x="505" y="2021" width="505" height="667"/>
+	<SubTexture name="cry0007" x="505" y="2021" width="505" height="667"/>
+	<SubTexture name="dodge0000" x="1010" y="2021" width="479" height="656" frameX="-5" frameY="0" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0001" x="1010" y="2021" width="479" height="656" frameX="-5" frameY="0" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0002" x="1489" y="2021" width="477" height="654" frameX="-6" frameY="-2" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0003" x="1966" y="2021" width="488" height="645" frameX="-1" frameY="-11" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0004" x="1966" y="2021" width="488" height="645" frameX="-1" frameY="-11" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0005" x="2454" y="2021" width="487" height="646" frameX="0" frameY="-10" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0006" x="2941" y="2021" width="489" height="644" frameX="-4" frameY="-12" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0007" x="2941" y="2021" width="489" height="644" frameX="-4" frameY="-12" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0008" x="3430" y="2021" width="491" height="643" frameX="-6" frameY="-13" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0009" x="3430" y="2021" width="491" height="643" frameX="-6" frameY="-13" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0010" x="0" y="2688" width="488" height="645" frameX="-2" frameY="-11" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0011" x="0" y="2688" width="488" height="645" frameX="-2" frameY="-11" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0012" x="2454" y="2021" width="487" height="646" frameX="0" frameY="-10" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0013" x="2454" y="2021" width="487" height="646" frameX="0" frameY="-10" frameWidth="497" frameHeight="656"/>
+	<SubTexture name="dodge0014" x="2454" y="2021" width="487" height="646" frameX="0" frameY="-10" frameWidth="497" frameHeight="656"/>
+</TextureAtlas>
