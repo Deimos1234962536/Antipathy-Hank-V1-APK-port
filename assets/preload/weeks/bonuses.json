@@ -1,0 +1,50 @@
+{
+	"storyName": "Bonus Songs",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "antipathy",
+	"weekBefore": "antipathyweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Accelerant",
+			"hank",
+			[
+				226,
+				0,
+				0
+			]
+		],
+		[
+			"Madness",
+			"tricky",
+			[
+				226,
+				0,
+				0
+			]
+		],
+		[
+			"Blood Rage",
+			"yabhank",
+			[
+				226,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BonusSongs"
+}
