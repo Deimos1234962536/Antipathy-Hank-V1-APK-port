@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "nevada",
+		"player1": "bf",
+		"player2": "hank",
+		"player3": null,
+		"events": [
+			[
+				93088.2352941175,
+				[
+					[
+						"HUD Alpha",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				93176.4705882352,
+				[
+					[
+						"Countdown",
+						"3",
+						""
+					],
+					[
+						"Additive Zoom",
+						"0.3",
+						"0.7"
+					]
+				]
+			],
+			[
+				93529.4117647057,
+				[
+					[
+						"Countdown",
+						"2",
+						""
+					],
+					[
+						"Additive Zoom",
+						"0.3",
+						"0.7"
+					]
+				]
+			],
+			[
+				93882.3529411763,
+				[
+					[
+						"Countdown",
+						"1",
+						""
+					],
+					[
+						"Additive Zoom",
+						"0.3",
+						"0.7"
+					]
+				]
+			],
+			[
+				94208.8235294116,
+				[
+					[
+						"Countdown",
+						"0",
+						""
+					],
+					[
+						"Tween Zoom",
+						"0.7",
+						"0.7"
+					]
+				]
+			],
+			[
+				94588.2352941175,
+				[
+					[
+						"HUD Alpha",
+						"1",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-anti",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Battered"
+	}
+}
