@@ -14,7 +14,6 @@ function onCreate()
 	
 	--close(true) --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
 end
-
 function onUpdate()
 	if followchars == true then
         if mustHitSection == false then
@@ -67,3 +66,21 @@ function onEvent(name,value1,value2)
 		end
 	end
 end
+function onCreate()
+	makeLuaSprite('patassky', 'antipathy/redsun/patassky', -530, -400);
+	
+	addLuaSprite('patassky', false);
+	makeLuaSprite('patasbuildings', 'antipathy/redsun/patasbuildings', -530, -400);
+	
+	addLuaSprite('patasbuildings', false);
+	makeLuaSprite('patasgroundstones', 'antipathy/redsun/patasgroundstones', -530, -400);
+	
+	addLuaSprite('patasgroundstones', false);
+	makeLuaSprite('patasground', 'antipathy/redsun/patasground', -530, -400);
+	
+	addLuaSprite('patasground', false);
+	makeLuaSprite('patasrocksfore', 'antipathy/redsun/patasrocksfore', -530, -400);
+	
+	addLuaSprite('patasrocksfore', false);
+end
+	-- background shit

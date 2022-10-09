@@ -6,6 +6,7 @@ local yy2 = 700.44
 local ofs = 50
 local followchars = true
 local hankdown = false
+local width = 0
 
 function onUpdate(elapsed)
 i = i + 1
@@ -65,4 +66,48 @@ function onEvent(name,value1,value2)
 	if name  == 'Vignette Fade' then --ok get up nerd
 		hankdown = false
 	end
+end
+sprite = 'trainback'
+size = 2048
+startX = -1330
+startY = 300
+duration = 0.5
+
+
+function onCreate()
+
+	-- background shit
+	makeLuaSprite('trainsky', 'trainsky', -1330, -400);
+	
+	addLuaSprite('trainsky', false);
+
+
+makeLuaSprite(sprite .. '1', sprite, startX, startY)
+addLuaSprite(sprite .. '1', false)
+makeLuaSprite(sprite .. '2', sprite, startX + size, startY)
+addLuaSprite(sprite .. '2', false)
+scrollA()
+end
+
+
+function scrollA()
+doTweenX(sprite .. '1move',sprite .. '1', startX + size, duration)
+doTweenX(sprite .. '2move',sprite .. '2', startX, duration)
+end
+
+function onTweenCompleted(tag)
+if tag == (sprite .. '2move') then
+scrollB()
+end
+if tag == (sprite .. '2move2') then
+scrollA()
+end
+end
+function scrollB()
+doTweenX(sprite .. '1move2',sprite .. '1', startX, 0.001)
+doTweenX(sprite .. '2move2',sprite .. '2', startX - size, 0.001)
+	-- background shit
+	makeLuaSprite('trainfront', 'trainfront', -1330, 300);
+	
+	addLuaSprite('trainfront', false);
 end

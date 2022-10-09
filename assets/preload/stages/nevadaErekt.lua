@@ -4,8 +4,16 @@ local xx2 = 1368.82
 local yy2 = 917.40
 local ofs = 50
 local followchars = true
-songEnded = false
 
+function onCreate()
+	--PRELOADING IT
+	precacheImage('antipathy/count/down0')
+	precacheImage('antipathy/count/down1')
+	precacheImage('antipathy/count/down2')
+	precacheImage('antipathy/count/down3')
+	
+	--close(true) --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
+end
 function onUpdate()
 	if followchars == true then
         if mustHitSection == false then
@@ -46,7 +54,33 @@ function onUpdate()
 		end
 end
 
-function onEndSong()
-	songEnded = true
-	return Function_Continue;
+function onEvent(name,value1,value2)
+	if name == 'Trigger BG Ghouls' then
+		hey = tonumber(value1)
+		
+		if hey == 0 then
+			followchars = true
+		elseif hey == 1 then
+			followchars = false
+			triggerEvent('Camera Follow Pos',1368,917)
+		end
+	end
 end
+function onCreate()
+	makeLuaSprite('patasskyerect', 'antipathy/bluesand/patasskyerect', -530, -400);
+	
+	addLuaSprite('patasskyerect', false);
+	makeLuaSprite('patasbuildingserect', 'antipathy/bluesand/patasbuildingserect', -530, -400);
+	
+	addLuaSprite('patasbuildingserect', false);
+	makeLuaSprite('patasgroundstoneserect', 'antipathy/bluesand/patasgroundstoneserect', -530, -400);
+	
+	addLuaSprite('patasgroundstoneserect', false);
+	makeLuaSprite('patasgrounderect', 'antipathy/bluesand/patasgrounderect', -530, -400);
+	
+	addLuaSprite('patasgrounderect', false);
+	makeLuaSprite('patasrocksforeerect', 'antipathy/bluesand/patasrocksforeerect', -530, -400);
+	
+	addLuaSprite('patasrocksforeerect', false);
+end
+	-- background shit

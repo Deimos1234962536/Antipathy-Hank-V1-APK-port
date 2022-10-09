@@ -12,6 +12,18 @@ end
 
 
 function onCreate()
+	makeLuaSprite('sky', 'antipathy/scary/sky', -600, -600);
+	
+	addLuaSprite('sky', false);
+
+	makeLuaSprite('tunnelback', 'antipathy/scary/tunnelback', -600, -600);
+	
+	addLuaSprite('tunnelback', false);
+
+	makeLuaSprite('tunnelfloor', 'antipathy/scary/tunnelfloor', -600, -600);
+	
+	addLuaSprite('tunnelfloor', false);
+
 	setPropertyFromClass('flixel.FlxG','sound.music.volume',0)
 	
 	makeLuaSprite('blackfuck', 'antipathy/black', 0, 0)
@@ -19,7 +31,7 @@ function onCreate()
 	setGraphicSize('blackfuck', screenWidth, screenHeight)
 	setScrollFactor('blackfuck', 0, 0)
 	setProperty('blackfuck.alpha', 1)
-	setProperty('defaultCamZoom',2.0)
+	setProperty('defaultCamZoom',0.7)
 end
 
 function onCreatePost()
